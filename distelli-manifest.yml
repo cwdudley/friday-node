@@ -1,5 +1,5 @@
 chrisd/friday-node:
-PkgInclude:
+  PkgInclude:
     - '*'
 
   PkgExclude:
